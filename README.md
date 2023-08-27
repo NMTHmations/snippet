@@ -1,8 +1,12 @@
-# Just a brief introduction:
+# Python JSON snippet tool
+
+Python3 is needed to be installed.
+
+## Just a brief introduction:
 
 This handy tool makes a JSON user-snippet from your code.
 It could have some issues with the special characters (such as \t, \n, \0 and etc...). 
 
-# Usage:
+## Usage:
 
 python3 snippet.py [description] [tab] [file] [JSON filename]
